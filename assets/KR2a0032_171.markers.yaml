@@ -1860,6 +1860,7 @@ markers:
   - {type: punctuation, offset: 3404, content: ．, id: KR2a0032_ZHSJ_171-bkkpn1008}
   - {type: 'tls:seg', offset: 3404, content: '', id: KR2a0032_ZHSJ_171-d171p19s33}
   - {type: punctuation, offset: 3404, content: (, id: KR2a0032_ZHSJ_171-bkkpn1009}
+  - {type: 'voice:problem', offset: 3404, length: 62, id: KR2a0032_bkk_171-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 3404, got ''('' at offset 3466'}
   - {type: punctuation, offset: 3408, content: ：, id: KR2a0032_ZHSJ_171-bkkpn1010}
   - {type: substitution, offset: 3413, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: line-break, offset: 3414, content: '', id: ZHSJ__dup53550, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
@@ -6038,4 +6039,4 @@ markers:
   - {type: xml-element, offset: 11087, content: '', id: KR2a0032_ZHSJ_171-d171n1, name: note, role: open, attrs: {'xml:id': KR2a0032_ZHSJ_171-d171n1, type: text-crit}}
   - {type: xml-element, offset: 11087, content: '', id: KR2a0032_ZHSJ_171-d171n1_end, name: note, role: close, attrs: {'xml:id': KR2a0032_ZHSJ_171-d171n1, type: text-crit}}
   back: []
-hash: sha256:eb6dd37d542061bd280cb49470f395b1aa3430aa00d1418e6b2b0b30eef6605d
+hash: sha256:1acba68bff10187f057daa9de42d1791f79001fff0ec038eecc82685de617615

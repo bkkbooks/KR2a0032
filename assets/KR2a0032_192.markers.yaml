@@ -4240,6 +4240,7 @@ markers:
   - {type: line-break, offset: 10281, content: '', id: ZHSJ__dup62416, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: substitution, offset: 10281, original: 峒, replacement: 洞, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18099}}
   - {type: punctuation, offset: 10283, content: (, id: KR2a0032_ZHSJ_192-bkkpn1907}
+  - {type: 'voice:problem', offset: 10283, length: 34, id: KR2a0032_bkk_192-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 10283, got ''('' at offset 10317'}
   - {type: punctuation, offset: 10287, content: ，, id: KR2a0032_ZHSJ_192-bkkpn1908}
   - {type: 'tls:seg', offset: 10287, content: '', id: KR2a0032_ZHSJ_192-d192p123s2}
   - {type: punctuation, offset: 10290, content: 、, id: KR2a0032_ZHSJ_192-bkkpn1909}
@@ -5034,4 +5035,4 @@ markers:
   - {type: xml-element, offset: 11417, content: '', id: KR2a0032_ZHSJ_192-d192n1, name: note, role: open, attrs: {'xml:id': KR2a0032_ZHSJ_192-d192n1, type: text-crit}}
   - {type: xml-element, offset: 11417, content: '', id: KR2a0032_ZHSJ_192-d192n1_end, name: note, role: close, attrs: {'xml:id': KR2a0032_ZHSJ_192-d192n1, type: text-crit}}
   back: []
-hash: sha256:efbf8a9afd210b58958d6760bf36cfbc01aa58920d295da7135f73328088e730
+hash: sha256:fdcc884da93e1c95cdb67162d114fc2d6355729310a14380c93cfc26d80390cb
